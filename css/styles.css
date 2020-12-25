@@ -1,0 +1,32 @@
+@media(min-width:768px){
+#navbarNav{
+	visibility: hidden !important;
+
+}
+}
+
+h1{
+	margin:30px;
+}
+
+.menu{
+	background:#d7dedd;
+	padding:20px;
+	box-sizing:border-box;
+	overflow:auto;
+	float:left;
+	margin:10px;
+
+}
+.menu div{
+	font-size:35px;
+	margin:20px 0 20px 0;
+}
+
+.menu p{
+	text-indent:50px;
+	font-size:20px;
+	line-height:2;
+
+}
+
